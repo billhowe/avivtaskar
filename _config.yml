@@ -1,0 +1,9 @@
+title: In Memory of Alex Taylor
+description: A memorial website honoring the life of Alex Taylor
+baseurl: ""  # Change if using a project page
+url: "https://your-username.github.io"
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
